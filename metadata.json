@@ -1,0 +1,5 @@
+{
+  "name": "QNA Proofreader",
+  "description": "A specialized proofreading assistant for all Bangla academic manuscripts, highlighting logical and sequence errors without rewriting text.",
+  "requestFramePermissions": []
+}
